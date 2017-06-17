@@ -1,0 +1,9 @@
+[submodule "PracticalDockerTips_01"]
+	path = PracticalDockerTips_01
+	url = https://github.com/marcelmaatkamp/PracticalDockerTips_01.git
+[submodule "PracticalDockerTips_02"]
+	path = PracticalDockerTips_02
+	url = https://github.com/marcelmaatkamp/PracticalDockerTips_02.git
+[submodule "PracticalDockerTips_03"]
+	path = PracticalDockerTips_03
+	url = https://github.com/marcelmaatkamp/PracticalDockerTips_03.git
