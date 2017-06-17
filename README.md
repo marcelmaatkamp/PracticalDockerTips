@@ -1,7 +1,7 @@
 # Practical Docker Tips
 
 * [Practical Docker Tips #01: Introduction](https://github.com/marcelmaatkamp/PracticalDockerTips_01)
-* [Practical Docker Tips #02: ](https://github.com/marcelmaatkamp/PracticalDockerTips_02)
+* [Practical Docker Tips #02: Let's make a secure Wordpress site with Letsencrypt](https://github.com/marcelmaatkamp/PracticalDockerTips_02)
 * [Practical Docker Tips #03: ](https://github.com/marcelmaatkamp/PracticalDockerTips_03)
 
 # About
