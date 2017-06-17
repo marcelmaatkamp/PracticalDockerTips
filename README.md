@@ -1,8 +1,8 @@
 # Practical Docker Tips
 
-* [Practical Docker Tips #01: ](/marcelmaatkamp/PracticalDockerTips_01/)
-* [Practical Docker Tips #02: ](/marcelmaatkamp/PracticalDockerTips_02/)
-* [Practical Docker Tips #03: ](/marcelmaatkamp/PracticalDockerTips_03/)
+* [Practical Docker Tips #01: ](https://github.com/marcelmaatkamp/PracticalDockerTips_01)
+* [Practical Docker Tips #02: ](https://github.com/marcelmaatkamp/PracticalDockerTips_02)
+* [Practical Docker Tips #03: ](https://github.com/marcelmaatkamp/PracticalDockerTips_03)
 
 # About
 
